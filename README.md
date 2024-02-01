@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KittyNekoMeow
-- 👀 I’m interested in chess engines
-- 🌱 I’m currently learning rust
+- Hi, I’m @KittyNekoMeow
+- I’m interested in chess engines
+- I’m currently learning rust
 - I'm open to any and all advice
 - Thank you!
 
