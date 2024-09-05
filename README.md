@@ -1,1 +1,1 @@
-I am currently learning gamedev with the TIC-80 engine.
+I am currently learning gamedev, and leveling up my learning.
